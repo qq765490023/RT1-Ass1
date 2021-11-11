@@ -20,7 +20,7 @@ You have downloaded a simple robotic simulator. In order to run it, you should f
 
 $ sudo apt-get install python-dev python-pip python-pygame python-yaml
 
-$ sudo pip install pypybox2d# 
+$ sudo pip install pypybox2d
 
 # overview
 This code is consists of two module in terms of the strcture.
