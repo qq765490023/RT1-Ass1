@@ -11,7 +11,7 @@ The first module is for navigation which allowed the robot to move along the tra
 # navigation
 ## abstract
 For navigation, just like radar we scan the nearest golden token from 4 aspects, which are left,right,front and wide front. With those data, we can keep the robot moving basically along the center of the road with a simple close-loop control technique and making turns to avoid hitting the wall.
-![IMG_0832 2](assets/IMG_0832%202.jpg)
+![IMG_0832 2](IMG_0832%202.jpg)
 The picture above shows how many distances are needed and how did the robot acquire them. I get the closest one through caculation.
 
 ## pseudo code
@@ -42,7 +42,7 @@ The picture above shows how many distances are needed and how did the robot acqu
 
 # grabbing silver-token mission
 ## abstract
-![IMG_0834](assets/IMG_0834.jpg)
+![IMG_0834](IMG_0834.jpg)
 
 In this part, actually we are confronted with a difficult problem which is how to identify if a silver token is the one we already grabbed. To solve this, I took the following strategy. They are:
    
