@@ -5,6 +5,7 @@ student ID:5197402
 
 # usage
 run this script with: python2 run.py ass1.py
+
 If you don't have dependencies, please do the following things:
 
 Open a shell and execute the following command:
