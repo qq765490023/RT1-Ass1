@@ -6,12 +6,19 @@ student ID:5197402
 # usage
 run this script with: python2 run.py ass1.py
 If you don't have dependencies, please do the following things:
+
 Open a shell and execute the following command:
+
 $ sudo apt-get udpate
+
 $ sudo apt-get install git
+
 $ git clone https://github.com/CarmineD8/python_simulator
+
 You have downloaded a simple robotic simulator. In order to run it, you should first install:
+
 $ sudo apt-get install python-dev python-pip python-pygame python-yaml
+
 $ sudo pip install pypybox2d# 
 
 # overview
